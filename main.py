@@ -3,7 +3,7 @@ import protduct_manager as pm
 def menu():
     print("\n==========QUẢN LÝ SẢN PHẨM========")
     print("1.Hiển thị danh sách sản phẩm")
-    print("2.Thêm danh sách sản phẩm")
+    print("2.Cập nhật danh sách sản phẩm")
     print("3.Sửa danh sách sản phẩm")
     print("4.Xóa sản phẩm")
     print("0.Thoát")
